@@ -10,7 +10,7 @@
 后端框架：SpringBoot + Mysql + Redis
 
 #### 在线体验
-演示地址：http://cp-mes.cn
+演示地址：http://cp-mes.cn  
 体验账号：18000000000/abc123456
 
 #### 主要功能
@@ -45,10 +45,10 @@
 #### 技术交流&获取使用说明  
 公众号上有更多案例  
 “云脉软件”公众号  
-<img src='docs/pics/公众号二维码.jpg' width='200'><br> 
+<img src='doc/pics/公众号二维码.jpg' width='200'><br> 
 
 咨询交流请加微信  
-<img src='docs/pics/联系人二维码.jpg' width='200'><br>
+<img src='doc/pics/联系人二维码.jpg' width='200'><br>
 
 #### 关于我们
 苏州云脉软件技术有限公司  
