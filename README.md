@@ -30,6 +30,9 @@
     * 深浅主题切换
     * 平台工单
 
+#### 本地运行
+https://www.szcloudpulse.com/mes-run-document.html
+
 #### 界面截图
 <img src='doc/pics/界面截图一.png' width='600'>  
 <img src='doc/pics/界面截图二.png' width='600'>  
