@@ -9,6 +9,10 @@
 前端框架：vue2 + element-ui + ECharts        
 后端框架：SpringBoot + Mysql + Redis
 
+#### 运行文档  
+<a href='https://to6tvs3h8n.feishu.cn/wiki/GhQ7wDMoOiTS6tk6O5scnwAonVd?from=from_copylink' target='_blank'>运行文档</a>
+
+
 #### 在线体验
 演示地址：http://cp-mes.cn  
 体验账号：18000000000/abc123456  
